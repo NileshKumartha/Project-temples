@@ -156,6 +156,7 @@ main {
 
 /* ===== TEMPLE CARD STYLING ===== */
 .temple-card {
+    background: E8E085
     overflow: hidden;
     display: flex;
     flex-direction: column;
