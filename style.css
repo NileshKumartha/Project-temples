@@ -1,0 +1,45 @@
+
+h1 {
+  background: rgb(33, 5, 97);
+}
+
+div {
+  background-color: #5003C0;
+}
+
+div p {
+  background-color: rgb(243, 188, 9);
+  color: black;
+  color: white;
+  border: 1px solid rgb(7, 47, 226);
+}
+
+h3 {
+  margin: 0;
+  color: white;
+}
+
+.flex-container {
+  display: flex;
+}
+
+h2 {
+  background: #AB03A9;
+  color: #f6faf6;
+  margin: 0;
+}
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
